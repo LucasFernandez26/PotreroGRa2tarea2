@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+h1{
+    background-color: darkblue;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    background-color: darkblue;
+    color: white;
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+h3{
+
+}
